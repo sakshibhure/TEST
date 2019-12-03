@@ -1,0 +1,2 @@
+gpg-agent stop/pre-start, process 2001
+gpgconf: warning: can not open config file /home/prn-166-167/.gnupg/gpg-agent.conf: No such file or directory
